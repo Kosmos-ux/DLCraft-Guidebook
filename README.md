@@ -17,5 +17,5 @@ Welcome to the DLCraft Guidebook! This guide is dedicated to help you understand
 <details open>
 <summary> primary guides </summary> 
 
-[tips & tricks](
+[tips & tricks](https://github.com/Kosmos-ux/DLCraft-Guidebook/blob/main/tips%20%26%20tricks)
 </details open>
