@@ -10,7 +10,7 @@ Welcome to the DLCraft Guidebook! This guide is dedicated to help you understand
 # 
 
 **Written by:**
-- [Kira](https://www.curseforge.com/members/deadlite/projects) (Observer)
+- [Kira](https://www.curseforge.com/members/deadlite/projects) (Overseer)
 - [Qoffie](https://github.com/ZhyuroKun) (Supervisor)
-- [Kosmos](https://github.com/Kosmos-ux) (Main Author)
-- [Kitsuro](https://github.com/kitsurothefoxxo) (Other Author)
+- [Kosmos](https://github.com/Kosmos-ux) (Author)
+- [Kitsuro](https://github.com/kitsurothefoxxo) (Co-Author)
