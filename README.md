@@ -15,6 +15,3 @@ Welcome to the DLCraft Guidebook! This guide is dedicated to help you understand
 - [Kosmos](https://github.com/Kosmos-ux) (Author)
 - [Kitsuro](https://github.com/kitsurothefoxxo) (Co-Author)
 <details open>
-''' 
-Primary guides 
-''' 
