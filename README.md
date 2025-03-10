@@ -17,4 +17,3 @@ Welcome to the DLCraft Guidebook! This guide is dedicated to help you understand
 <details open>
 <summary> primary guides </summary> 
 
-### Primary guides
