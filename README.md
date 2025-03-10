@@ -14,5 +14,5 @@ Welcome to the DLCraft Guidebook! This guide is dedicated to help you understand
 - [Qoffie](https://github.com/ZhyuroKun) (Supervisor)
 - [Kosmos](https://github.com/Kosmos-ux) (Author)
 - [Kitsuro](https://github.com/kitsurothefoxxo) (Co-Author)
-<details>
-primary guides
+<details open>
+# primary guides 
